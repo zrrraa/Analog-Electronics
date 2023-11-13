@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.10.3)  12 NOV 2023 22:24
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.10.3)  13 NOV 2023 14:21
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**main
-(./main.tex
+**Day2
+(./Day2.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22> (e:/texlive/2023/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
@@ -376,8 +376,8 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
 )
 \Hy@SectionHShift=\skip59
-) (./main.aux)
-\openout1 = `main.aux'.
+) (./Day2.aux)
+\openout1 = `Day2.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
 LaTeX Font Info:    ... okay on input line 17.
@@ -502,9 +502,9 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 Package color Info: Driver file: xetex.def on input line 149.
  (e:/texlive/2023/texmf-dist/tex/latex/graphics/mathcolor.ltx))
 Package hyperref Info: Link coloring ON on input line 17.
- (./main.out) (./main.out)
+ (./Day2.out) (./Day2.out)
 \@outlinefile=\write3
-\openout3 = `main.out'.
+\openout3 = `Day2.out'.
 
 
 Package fontspec Info: Could not resolve font "SimHei/BI" (it probably doesn't
@@ -561,42 +561,34 @@ Package fontspec Info: Font family 'SimSun(1)' created for font 'SimSun' with
 File: figures//1.jpg Graphic file (type bmp)
 <figures//1.jpg>
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.53937> on input line 30.
+(Font)              <10.53937> on input line 29.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 30.
+(Font)              <7> on input line 29.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 30.
+(Font)              <5> on input line 29.
 File: figures//2.jpg Graphic file (type bmp)
 <figures//2.jpg>
+File: figures//3.jpg Graphic file (type bmp)
+<figures//3.jpg>
  [1
 
 ]
-File: figures//3.jpg Graphic file (type bmp)
-<figures//3.jpg>
 File: figures//4.jpg Graphic file (type bmp)
 <figures//4.jpg>
+ [2]
 File: figures//5.jpg Graphic file (type bmp)
 <figures//5.jpg>
- [2]
-File: figures//6.jpg Graphic file (type bmp)
-<figures//6.jpg>
-File: figures//7.jpg Graphic file (type bmp)
-<figures//7.jpg>
-File: figures//8.jpg Graphic file (type bmp)
-<figures//8.jpg>
-File: figures//9.jpg Graphic file (type bmp)
-<figures//9.jpg>
- [3] (./main.aux)
-Package rerunfilecheck Info: File `main.out' has not changed.
+ [3] (./Day2.aux)
+Package rerunfilecheck Info: File `Day2.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 16099 strings out of 476683
- 354152 string characters out of 5807575
- 1854012 words of memory out of 5000000
- 36109 multiletter control sequences out of 15000+600000
+ 16031 strings out of 476683
+ 352428 string characters out of 5807575
+ 1852012 words of memory out of 5000000
+ 36045 multiletter control sequences out of 15000+600000
  518197 words of font info for 79 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  89i,7n,97p,360b,474s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (3 pages).
+Output written on Day2.pdf (3 pages).
